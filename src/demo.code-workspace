@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../../demo"
+		},
+		{
+			"path": "../../../nodejs-user-permissions/after"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../dev-website"
+		},
+		{
+			"path": "../../../kappamaths/kappamaths"
+		},
+		{
+			"path": "../../../spa_react_javascript_hello-world"
+		},
+		{
+			"path": "../../../api_aspnet-core_csharp_hello-world"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}

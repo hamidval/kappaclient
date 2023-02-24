@@ -1,0 +1,14 @@
+[build]
+command = "CI= npm run build"
+
+[[redirects]]
+  from = "/api/*"
+  to = "https://nodejs-user-permissions-wy5k6.ondigitalocean.app"
+  status = 200
+  force = true # COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+  force = true # COMMENT: ensure that we always redirect
